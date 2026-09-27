@@ -1,0 +1,2192 @@
+[
+  {
+    "time": 0.0027397260273972603,
+    "portfolio_value": 4.316853607397938,
+    "option_price": 4.307826686830135,
+    "transaction_costs": 1.6297544733601122E-05
+  },
+  {
+    "time": 0.005479452054794521,
+    "portfolio_value": 4.53568112915017,
+    "option_price": 4.512380521316305,
+    "transaction_costs": 0.0016606024220695685
+  },
+  {
+    "time": 0.008219178082191782,
+    "portfolio_value": 4.532694568107843,
+    "option_price": 4.5003599552944165,
+    "transaction_costs": 0.0016708110577243766
+  },
+  {
+    "time": 0.010958904109589041,
+    "portfolio_value": 4.811813011278851,
+    "option_price": 4.765145820509938,
+    "transaction_costs": 0.0037237403345766525
+  },
+  {
+    "time": 0.0136986301369863,
+    "portfolio_value": 4.479895226453358,
+    "option_price": 4.443561516806771,
+    "transaction_costs": 0.006067798204312483
+  },
+  {
+    "time": 0.01643835616438356,
+    "portfolio_value": 4.476924680407656,
+    "option_price": 4.431465808487259,
+    "transaction_costs": 0.006081382865582314
+  },
+  {
+    "time": 0.01917808219178082,
+    "portfolio_value": 3.95140701368053,
+    "option_price": 3.933526560410594,
+    "transaction_costs": 0.009819319288654479
+  },
+  {
+    "time": 0.02191780821917808,
+    "portfolio_value": 3.8537121223517943,
+    "option_price": 3.8304438730169315,
+    "transaction_costs": 0.010551960112063654
+  },
+  {
+    "time": 0.02465753424657534,
+    "portfolio_value": 3.8509868134957657,
+    "option_price": 3.8182811905028777,
+    "transaction_costs": 0.010565703137735236
+  },
+  {
+    "time": 0.027397260273972598,
+    "portfolio_value": 4.203576182058043,
+    "option_price": 4.157026070519829,
+    "transaction_costs": 0.013342187629561748
+  },
+  {
+    "time": 0.030136986301369857,
+    "portfolio_value": 3.80961427532759,
+    "option_price": 3.777179485999359,
+    "transaction_costs": 0.016237366524332605
+  },
+  {
+    "time": 0.03287671232876712,
+    "portfolio_value": 3.8068957672288377,
+    "option_price": 3.764929528070453,
+    "transaction_costs": 0.016246669597067578
+  },
+  {
+    "time": 0.03561643835616438,
+    "portfolio_value": 3.8462502045267044,
+    "option_price": 3.795462875779744,
+    "transaction_costs": 0.016560953680093037
+  },
+  {
+    "time": 0.038356164383561646,
+    "portfolio_value": 3.3754337899481257,
+    "option_price": 3.347854989442438,
+    "transaction_costs": 0.020247008412903753
+  },
+  {
+    "time": 0.04109589041095891,
+    "portfolio_value": 3.372900103436187,
+    "option_price": 3.335420806390861,
+    "transaction_costs": 0.020266830981613523
+  },
+  {
+    "time": 0.04383561643835617,
+    "portfolio_value": 2.9466349517794512,
+    "option_price": 2.9304026137429595,
+    "transaction_costs": 0.0240772998137675
+  },
+  {
+    "time": 0.046575342465753435,
+    "portfolio_value": 2.5474806471901346,
+    "option_price": 2.55164830405426,
+    "transaction_costs": 0.02780600271228479
+  },
+  {
+    "time": 0.0493150684931507,
+    "portfolio_value": 2.5453607585242963,
+    "option_price": 2.539846832375353,
+    "transaction_costs": 0.027867486372622784
+  },
+  {
+    "time": 0.05205479452054796,
+    "portfolio_value": 2.7881385712723983,
+    "option_price": 2.7712912675910717,
+    "transaction_costs": 0.030353282738712198
+  },
+  {
+    "time": 0.05479452054794522,
+    "portfolio_value": 3.5408193451994308,
+    "option_price": 3.5470516292183016,
+    "transaction_costs": 0.037916987841478254
+  },
+  {
+    "time": 0.057534246575342486,
+    "portfolio_value": 3.538151797293942,
+    "option_price": 3.5342970752516782,
+    "transaction_costs": 0.037923529188290936
+  },
+  {
+    "time": 0.06027397260273975,
+    "portfolio_value": 3.8270630292934413,
+    "option_price": 3.808834194024635,
+    "transaction_costs": 0.04042128893808991
+  },
+  {
+    "time": 0.063013698630137,
+    "portfolio_value": 3.4130337775411874,
+    "option_price": 3.3963300801348475,
+    "transaction_costs": 0.043920161546621116
+  },
+  {
+    "time": 0.06575342465753427,
+    "portfolio_value": 3.410420999079946,
+    "option_price": 3.385363936413803,
+    "transaction_costs": 0.04394235542289691
+  },
+  {
+    "time": 0.06849315068493153,
+    "portfolio_value": 3.0247343115282703,
+    "option_price": 3.0311179963241943,
+    "transaction_costs": 0.0471591610429646
+  },
+  {
+    "time": 0.0712328767123288,
+    "portfolio_value": 2.9452199071017873,
+    "option_price": 2.9497921015772737,
+    "transaction_costs": 0.04787921807475651
+  },
+  {
+    "time": 0.07397260273972606,
+    "portfolio_value": 2.942823649447284,
+    "option_price": 2.9390614996347924,
+    "transaction_costs": 0.047923843665553564
+  },
+  {
+    "time": 0.07671232876712332,
+    "portfolio_value": 3.3820924699255315,
+    "option_price": 3.3543189970471334,
+    "transaction_costs": 0.05195903898603728
+  },
+  {
+    "time": 0.07945205479452058,
+    "portfolio_value": 2.8540337041869037,
+    "option_price": 2.8785315870584856,
+    "transaction_costs": 0.05642772190097362
+  },
+  {
+    "time": 0.08219178082191785,
+    "portfolio_value": 2.8516632394470705,
+    "option_price": 2.867800622027498,
+    "transaction_costs": 0.05646491952054383
+  },
+  {
+    "time": 0.08493150684931511,
+    "portfolio_value": 3.212761585285371,
+    "option_price": 3.205514453739822,
+    "transaction_costs": 0.05983357299483906
+  },
+  {
+    "time": 0.08767123287671237,
+    "portfolio_value": 3.751891387660038,
+    "option_price": 3.719517851887107,
+    "transaction_costs": 0.06448799525235953
+  },
+  {
+    "time": 0.09041095890410963,
+    "portfolio_value": 3.7490829289803074,
+    "option_price": 3.7082715230997927,
+    "transaction_costs": 0.06450887015164068
+  },
+  {
+    "time": 0.0931506849315069,
+    "portfolio_value": 3.1939674642146088,
+    "option_price": 3.205857388224215,
+    "transaction_costs": 0.0688992604968738
+  },
+  {
+    "time": 0.09589041095890416,
+    "portfolio_value": 2.6340364272867163,
+    "option_price": 2.704362820109599,
+    "transaction_costs": 0.07372001807811027
+  },
+  {
+    "time": 0.09863013698630142,
+    "portfolio_value": 2.631733398336536,
+    "option_price": 2.6936870871049474,
+    "transaction_costs": 0.07375541832311298
+  },
+  {
+    "time": 0.10136986301369869,
+    "portfolio_value": 2.649990332634381,
+    "option_price": 2.7039507125424826,
+    "transaction_costs": 0.07391729771597311
+  },
+  {
+    "time": 0.10410958904109595,
+    "portfolio_value": 2.64768012083578,
+    "option_price": 2.6932836872633805,
+    "transaction_costs": 0.07395111291448124
+  },
+  {
+    "time": 0.10684931506849321,
+    "portfolio_value": 2.871205827801589,
+    "option_price": 2.897762112506209,
+    "transaction_costs": 0.07609910014996245
+  },
+  {
+    "time": 0.10958904109589047,
+    "portfolio_value": 2.9891765644014967,
+    "option_price": 2.998683178319334,
+    "transaction_costs": 0.07718648319165758
+  },
+  {
+    "time": 0.11232876712328774,
+    "portfolio_value": 2.9866905340824914,
+    "option_price": 2.98780228888065,
+    "transaction_costs": 0.07722538654341057
+  },
+  {
+    "time": 0.115068493150685,
+    "portfolio_value": 2.8825131999807283,
+    "option_price": 2.882979291982371,
+    "transaction_costs": 0.07818774164371307
+  },
+  {
+    "time": 0.11780821917808226,
+    "portfolio_value": 3.0067752547662963,
+    "option_price": 2.9897998494711926,
+    "transaction_costs": 0.07928706193291665
+  },
+  {
+    "time": 0.12054794520547953,
+    "portfolio_value": 3.0042834454758136,
+    "option_price": 2.97886261304706,
+    "transaction_costs": 0.07936600894757848
+  },
+  {
+    "time": 0.12328767123287679,
+    "portfolio_value": 2.8482539984503674,
+    "option_price": 2.827795195118076,
+    "transaction_costs": 0.08079790119154615
+  },
+  {
+    "time": 0.12602739726027404,
+    "portfolio_value": 2.496915466075876,
+    "option_price": 2.508387007027817,
+    "transaction_costs": 0.08414194019675986
+  },
+  {
+    "time": 0.1287671232876713,
+    "portfolio_value": 2.4946892799279112,
+    "option_price": 2.4981856824815454,
+    "transaction_costs": 0.0841866157880577
+  },
+  {
+    "time": 0.13150684931506854,
+    "portfolio_value": 2.87203092251918,
+    "option_price": 2.839265444390379,
+    "transaction_costs": 0.08784052029847914
+  },
+  {
+    "time": 0.13424657534246578,
+    "portfolio_value": 2.9869036979117496,
+    "option_price": 2.9339584196374195,
+    "transaction_costs": 0.08886195935035433
+  },
+  {
+    "time": 0.13698630136986303,
+    "portfolio_value": 2.984423392899302,
+    "option_price": 2.9232599000795676,
+    "transaction_costs": 0.08889679859709289
+  },
+  {
+    "time": 0.13972602739726028,
+    "portfolio_value": 2.887248012130442,
+    "option_price": 2.8301333560760944,
+    "transaction_costs": 0.08978271983494453
+  },
+  {
+    "time": 0.14246575342465753,
+    "portfolio_value": 2.684861008738224,
+    "option_price": 2.645035782893892,
+    "transaction_costs": 0.09162856868595659
+  },
+  {
+    "time": 0.14520547945205478,
+    "portfolio_value": 2.682531898025637,
+    "option_price": 2.634498779361167,
+    "transaction_costs": 0.09167017979230664
+  },
+  {
+    "time": 0.14794520547945203,
+    "portfolio_value": 2.5199436302150673,
+    "option_price": 2.483439598040497,
+    "transaction_costs": 0.09324721886456894
+  },
+  {
+    "time": 0.15068493150684928,
+    "portfolio_value": 2.2209484672547717,
+    "option_price": 2.2187219767913664,
+    "transaction_costs": 0.09620954940048805
+  },
+  {
+    "time": 0.15342465753424653,
+    "portfolio_value": 2.218869998147383,
+    "option_price": 2.2086846382054954,
+    "transaction_costs": 0.09627597295503507
+  },
+  {
+    "time": 0.15616438356164378,
+    "portfolio_value": 2.548030326479413,
+    "option_price": 2.5061196745917287,
+    "transaction_costs": 0.09978586673038303
+  },
+  {
+    "time": 0.15890410958904103,
+    "portfolio_value": 2.458841912354515,
+    "option_price": 2.41958547193551,
+    "transaction_costs": 0.10070018164801678
+  },
+  {
+    "time": 0.16164383561643828,
+    "portfolio_value": 2.456624503763855,
+    "option_price": 2.409202896634301,
+    "transaction_costs": 0.1007508867178815
+  },
+  {
+    "time": 0.16438356164383552,
+    "portfolio_value": 2.18940682946036,
+    "option_price": 2.1752779435723677,
+    "transaction_costs": 0.10345062690351037
+  },
+  {
+    "time": 0.16712328767123277,
+    "portfolio_value": 1.9406122674669106,
+    "option_price": 1.9517312633255335,
+    "transaction_costs": 0.10608805127421377
+  },
+  {
+    "time": 0.16986301369863002,
+    "portfolio_value": 1.9386897365729965,
+    "option_price": 1.941935982008234,
+    "transaction_costs": 0.10614359275737216
+  },
+  {
+    "time": 0.17260273972602727,
+    "portfolio_value": 2.010418340890027,
+    "option_price": 2.0003134781614924,
+    "transaction_costs": 0.10691523521232263
+  },
+  {
+    "time": 0.17534246575342452,
+    "portfolio_value": 1.9440595397945515,
+    "option_price": 1.9329760152545226,
+    "transaction_costs": 0.10767755969973468
+  },
+  {
+    "time": 0.17808219178082177,
+    "portfolio_value": 1.942139223723558,
+    "option_price": 1.9231190277427084,
+    "transaction_costs": 0.10772363900309972
+  },
+  {
+    "time": 0.18082191780821902,
+    "portfolio_value": 2.080870055443775,
+    "option_price": 2.0462765038409163,
+    "transaction_costs": 0.10927527253684455
+  },
+  {
+    "time": 0.18356164383561627,
+    "portfolio_value": 1.5365136134695447,
+    "option_price": 1.590150854784807,
+    "transaction_costs": 0.11515779433440049
+  },
+  {
+    "time": 0.18630136986301352,
+    "portfolio_value": 1.5348328177321982,
+    "option_price": 1.581232522517305,
+    "transaction_costs": 0.11520585489599133
+  },
+  {
+    "time": 0.18904109589041077,
+    "portfolio_value": 1.5211839927325705,
+    "option_price": 1.5503599604884024,
+    "transaction_costs": 0.11556006088450942
+  },
+  {
+    "time": 0.19178082191780801,
+    "portfolio_value": 1.782837143429667,
+    "option_price": 1.7758646525375699,
+    "transaction_costs": 0.11885596772617152
+  },
+  {
+    "time": 0.19452054794520526,
+    "portfolio_value": 1.7809975127500977,
+    "option_price": 1.7665116339639755,
+    "transaction_costs": 0.11892691564982015
+  },
+  {
+    "time": 0.1972602739726025,
+    "portfolio_value": 2.0911186771277244,
+    "option_price": 2.0391922321298135,
+    "transaction_costs": 0.12257397796696548
+  },
+  {
+    "time": 0.19999999999999976,
+    "portfolio_value": 2.0890828882045227,
+    "option_price": 2.0293126099162464,
+    "transaction_costs": 0.12263247178596622
+  },
+  {
+    "time": 0.202739726027397,
+    "portfolio_value": 1.9227965167830376,
+    "option_price": 1.8886106464878618,
+    "transaction_costs": 0.12443906130487124
+  },
+  {
+    "time": 0.20547945205479426,
+    "portfolio_value": 1.8319588933581628,
+    "option_price": 1.8002884173060436,
+    "transaction_costs": 0.1255318734811498
+  },
+  {
+    "time": 0.2082191780821915,
+    "portfolio_value": 1.8300848564400383,
+    "option_price": 1.7907653038760536,
+    "transaction_costs": 0.12559660113262222
+  },
+  {
+    "time": 0.21095890410958876,
+    "portfolio_value": 2.3062378791838754,
+    "option_price": 2.221023456753242,
+    "transaction_costs": 0.1312219491400185
+  },
+  {
+    "time": 0.213698630136986,
+    "portfolio_value": 2.6944539558417517,
+    "option_price": 2.552812042068019,
+    "transaction_costs": 0.1352044744898402
+  },
+  {
+    "time": 0.21643835616438326,
+    "portfolio_value": 2.692056667915381,
+    "option_price": 2.542200606358333,
+    "transaction_costs": 0.1352369395908783
+  },
+  {
+    "time": 0.2191780821917805,
+    "portfolio_value": 2.8284297463436943,
+    "option_price": 2.646340618097795,
+    "transaction_costs": 0.1365480853621239
+  },
+  {
+    "time": 0.22191780821917775,
+    "portfolio_value": 2.7553092905870287,
+    "option_price": 2.574883317520185,
+    "transaction_costs": 0.1372469085503896
+  },
+  {
+    "time": 0.224657534246575,
+    "portfolio_value": 2.7528798309284284,
+    "option_price": 2.564146229024851,
+    "transaction_costs": 0.13728393825254392
+  },
+  {
+    "time": 0.22739726027397225,
+    "portfolio_value": 3.2171092275574864,
+    "option_price": 2.971390008812302,
+    "transaction_costs": 0.14174533116998683
+  },
+  {
+    "time": 0.2301369863013695,
+    "portfolio_value": 3.209588889260935,
+    "option_price": 2.952269494302639,
+    "transaction_costs": 0.1418272420593784
+  },
+  {
+    "time": 0.23287671232876675,
+    "portfolio_value": 3.206921067920561,
+    "option_price": 2.9412534381995648,
+    "transaction_costs": 0.1418573818438748
+  },
+  {
+    "time": 0.235616438356164,
+    "portfolio_value": 3.1073014472197045,
+    "option_price": 2.8479611760342602,
+    "transaction_costs": 0.1427424237018458
+  },
+  {
+    "time": 0.23835616438356125,
+    "portfolio_value": 3.3554348425416336,
+    "option_price": 3.057807842482377,
+    "transaction_costs": 0.14495955748288375
+  },
+  {
+    "time": 0.2410958904109585,
+    "portfolio_value": 3.352695243659916,
+    "option_price": 3.0465813171245015,
+    "transaction_costs": 0.1449763479770001
+  },
+  {
+    "time": 0.24383561643835575,
+    "portfolio_value": 4.017805480026034,
+    "option_price": 3.635558003396502,
+    "transaction_costs": 0.15071823465739603
+  },
+  {
+    "time": 0.246575342465753,
+    "portfolio_value": 3.5773714259137392,
+    "option_price": 3.262183624318882,
+    "transaction_costs": 0.15411956908774954
+  },
+  {
+    "time": 0.24931506849315024,
+    "portfolio_value": 3.57450402661037,
+    "option_price": 3.2508366012243304,
+    "transaction_costs": 0.15417061010115654
+  },
+  {
+    "time": 0.2520547945205475,
+    "portfolio_value": 2.935659600699573,
+    "option_price": 2.739941032238328,
+    "transaction_costs": 0.15945778687260798
+  },
+  {
+    "time": 0.25479452054794477,
+    "portfolio_value": 2.8873092374108538,
+    "option_price": 2.6930883611242376,
+    "transaction_costs": 0.1598903929599355
+  },
+  {
+    "time": 0.257534246575342,
+    "portfolio_value": 2.8847576010879337,
+    "option_price": 2.6823311520100375,
+    "transaction_costs": 0.15992140874306074
+  },
+  {
+    "time": 0.26027397260273927,
+    "portfolio_value": 2.3291735963951794,
+    "option_price": 2.244507539575187,
+    "transaction_costs": 0.16499547057684918
+  },
+  {
+    "time": 0.2630136986301365,
+    "portfolio_value": 2.8155884286299937,
+    "option_price": 2.6589247984019093,
+    "transaction_costs": 0.17000313426109298
+  },
+  {
+    "time": 0.26575342465753377,
+    "portfolio_value": 2.813041726143169,
+    "option_price": 2.6480307821010753,
+    "transaction_costs": 0.1700332634371542
+  },
+  {
+    "time": 0.268493150684931,
+    "portfolio_value": 3.093426687887465,
+    "option_price": 2.8764077986828362,
+    "transaction_costs": 0.17265725094150616
+  },
+  {
+    "time": 0.27123287671232826,
+    "portfolio_value": 3.9734248525559295,
+    "option_price": 3.6406927830463056,
+    "transaction_costs": 0.180196730872881
+  },
+  {
+    "time": 0.2739726027397255,
+    "portfolio_value": 3.970322457076662,
+    "option_price": 3.6295625771758924,
+    "transaction_costs": 0.18021129348042936
+  },
+  {
+    "time": 0.27671232876712276,
+    "portfolio_value": 3.2614006337863444,
+    "option_price": 3.0655071232934317,
+    "transaction_costs": 0.1853864984732711
+  },
+  {
+    "time": 0.27945205479452,
+    "portfolio_value": 2.9880015858072326,
+    "option_price": 2.835567764432171,
+    "transaction_costs": 0.18768276045610058
+  },
+  {
+    "time": 0.28219178082191726,
+    "portfolio_value": 2.985307304449158,
+    "option_price": 2.8242799600256427,
+    "transaction_costs": 0.18769458381283188
+  },
+  {
+    "time": 0.2849315068493145,
+    "portfolio_value": 2.8528766022942875,
+    "option_price": 2.7083281242743236,
+    "transaction_costs": 0.18886825685012132
+  },
+  {
+    "time": 0.28767123287671176,
+    "portfolio_value": 2.7634904404339906,
+    "option_price": 2.632229778501603,
+    "transaction_costs": 0.18966399914942178
+  },
+  {
+    "time": 0.290410958904109,
+    "portfolio_value": 2.760904283737645,
+    "option_price": 2.6208417995111772,
+    "transaction_costs": 0.1896814914149099
+  },
+  {
+    "time": 0.29315068493150626,
+    "portfolio_value": 2.8465775689511545,
+    "option_price": 2.6834797857550727,
+    "transaction_costs": 0.19051522838189405
+  },
+  {
+    "time": 0.2958904109589035,
+    "portfolio_value": 2.5358454566130106,
+    "option_price": 2.4214750741065583,
+    "transaction_costs": 0.19348848426915788
+  },
+  {
+    "time": 0.29863013698630075,
+    "portfolio_value": 2.5333770679936762,
+    "option_price": 2.4100208374286716,
+    "transaction_costs": 0.1935108900415786
+  },
+  {
+    "time": 0.301369863013698,
+    "portfolio_value": 2.8081104517653515,
+    "option_price": 2.637367358929805,
+    "transaction_costs": 0.19632130627139371
+  },
+  {
+    "time": 0.30410958904109525,
+    "portfolio_value": 2.805489020808345,
+    "option_price": 2.6254783538480204,
+    "transaction_costs": 0.19634621921957454
+  },
+  {
+    "time": 0.3068493150684925,
+    "portfolio_value": 2.6044943570610286,
+    "option_price": 2.4487520226523003,
+    "transaction_costs": 0.19832159294095836
+  },
+  {
+    "time": 0.30958904109588975,
+    "portfolio_value": 1.8293895205972532,
+    "option_price": 1.8576881825067242,
+    "transaction_costs": 0.2060395959180119
+  },
+  {
+    "time": 0.312328767123287,
+    "portfolio_value": 1.8273001883768387,
+    "option_price": 1.8444264491412126,
+    "transaction_costs": 0.20607596952753765
+  },
+  {
+    "time": 0.31506849315068425,
+    "portfolio_value": 1.5041406092318184,
+    "option_price": 1.5940024986780712,
+    "transaction_costs": 0.20960321303207144
+  },
+  {
+    "time": 0.3178082191780815,
+    "portfolio_value": 1.4570364619720877,
+    "option_price": 1.5456082578955133,
+    "transaction_costs": 0.21020784606758205
+  },
+  {
+    "time": 0.32054794520547875,
+    "portfolio_value": 1.455171213911889,
+    "option_price": 1.5368198473196581,
+    "transaction_costs": 0.21027720871789243
+  },
+  {
+    "time": 0.323287671232876,
+    "portfolio_value": 1.657860678954485,
+    "option_price": 1.6961037107168346,
+    "transaction_costs": 0.2126400589154196
+  },
+  {
+    "time": 0.32602739726027324,
+    "portfolio_value": 1.5612784148772008,
+    "option_price": 1.6213157484616967,
+    "transaction_costs": 0.21372891003481456
+  },
+  {
+    "time": 0.3287671232876705,
+    "portfolio_value": 1.5593468442135645,
+    "option_price": 1.6122222810775924,
+    "transaction_costs": 0.2137936937243799
+  },
+  {
+    "time": 0.33150684931506774,
+    "portfolio_value": 1.303978140763526,
+    "option_price": 1.4104490059295647,
+    "transaction_costs": 0.21673732683402686
+  },
+  {
+    "time": 0.334246575342465,
+    "portfolio_value": 1.660166486457534,
+    "option_price": 1.6973315996351337,
+    "transaction_costs": 0.22115905173979677
+  },
+  {
+    "time": 0.33698630136986224,
+    "portfolio_value": 1.6581571638151473,
+    "option_price": 1.6880358414379424,
+    "transaction_costs": 0.22121423154618994
+  },
+  {
+    "time": 0.3397260273972595,
+    "portfolio_value": 1.4382133130679193,
+    "option_price": 1.5114470855673043,
+    "transaction_costs": 0.2237626305852192
+  },
+  {
+    "time": 0.34246575342465674,
+    "portfolio_value": 1.4903519779204188,
+    "option_price": 1.550756204944724,
+    "transaction_costs": 0.22438503435644302
+  },
+  {
+    "time": 0.345205479452054,
+    "portfolio_value": 1.4884508934470233,
+    "option_price": 1.5415551152198412,
+    "transaction_costs": 0.2244456609790421
+  },
+  {
+    "time": 0.34794520547945124,
+    "portfolio_value": 1.8421607297360012,
+    "option_price": 1.8311085144085166,
+    "transaction_costs": 0.22883928371234918
+  },
+  {
+    "time": 0.3506849315068485,
+    "portfolio_value": 2.205784226799132,
+    "option_price": 2.124611658004931,
+    "transaction_costs": 0.23290764039377482
+  },
+  {
+    "time": 0.35342465753424573,
+    "portfolio_value": 2.2034224562540814,
+    "option_price": 2.1144772936827754,
+    "transaction_costs": 0.23295907088542506
+  },
+  {
+    "time": 0.356164383561643,
+    "portfolio_value": 1.4247572260509287,
+    "option_price": 1.558735122252891,
+    "transaction_costs": 0.24078240196943754
+  },
+  {
+    "time": 0.35890410958904023,
+    "portfolio_value": 1.5159390412596352,
+    "option_price": 1.6317021164449959,
+    "transaction_costs": 0.24194253151652798
+  },
+  {
+    "time": 0.3616438356164375,
+    "portfolio_value": 1.5139448413686267,
+    "option_price": 1.6220975862771372,
+    "transaction_costs": 0.24201251814386077
+  },
+  {
+    "time": 0.36438356164383473,
+    "portfolio_value": 1.1028170753516982,
+    "option_price": 1.3142499855276284,
+    "transaction_costs": 0.24687971994725855
+  },
+  {
+    "time": 0.367123287671232,
+    "portfolio_value": 1.465603483384406,
+    "option_price": 1.603018165685482,
+    "transaction_costs": 0.25169930554158915
+  },
+  {
+    "time": 0.36986301369862923,
+    "portfolio_value": 1.463615414854928,
+    "option_price": 1.5933193182804266,
+    "transaction_costs": 0.2517735088703674
+  },
+  {
+    "time": 0.3726027397260265,
+    "portfolio_value": 1.4974419753273338,
+    "option_price": 1.6104017386966545,
+    "transaction_costs": 0.2521110421060254
+  },
+  {
+    "time": 0.3753424657534237,
+    "portfolio_value": 1.9664282479700788,
+    "option_price": 1.9671601112929655,
+    "transaction_costs": 0.25785360813694286
+  },
+  {
+    "time": 0.378082191780821,
+    "portfolio_value": 1.9641107528353956,
+    "option_price": 1.9578215683057443,
+    "transaction_costs": 0.2579026035482927
+  },
+  {
+    "time": 0.3808219178082182,
+    "portfolio_value": 1.968826976955583,
+    "option_price": 1.951173847216746,
+    "transaction_costs": 0.2579335833654122
+  },
+  {
+    "time": 0.3835616438356155,
+    "portfolio_value": 2.032209330788419,
+    "option_price": 1.9914953008633625,
+    "transaction_costs": 0.25857319524057215
+  },
+  {
+    "time": 0.3863013698630127,
+    "portfolio_value": 2.0298588492620766,
+    "option_price": 1.9820554107200152,
+    "transaction_costs": 0.25862538960066883
+  },
+  {
+    "time": 0.38904109589040997,
+    "portfolio_value": 1.9381666858802618,
+    "option_price": 1.9062060810635035,
+    "transaction_costs": 0.2596104461573995
+  },
+  {
+    "time": 0.3917808219178072,
+    "portfolio_value": 1.5207270063782374,
+    "option_price": 1.6016192483532046,
+    "transaction_costs": 0.2640804654537479
+  },
+  {
+    "time": 0.39452054794520447,
+    "portfolio_value": 1.5186779182094199,
+    "option_price": 1.5926083185844826,
+    "transaction_costs": 0.2641388441231322
+  },
+  {
+    "time": 0.3972602739726017,
+    "portfolio_value": 2.536472464527918,
+    "option_price": 2.4513713714318435,
+    "transaction_costs": 0.2764572437049802
+  },
+  {
+    "time": 0.39999999999999897,
+    "portfolio_value": 2.5337513515913557,
+    "option_price": 2.441394876688806,
+    "transaction_costs": 0.27647119607441706
+  },
+  {
+    "time": 0.4027397260273962,
+    "portfolio_value": 2.5068553013302477,
+    "option_price": 2.395889580494699,
+    "transaction_costs": 0.2768286138522962
+  },
+  {
+    "time": 0.40547945205479347,
+    "portfolio_value": 2.7796647648069595,
+    "option_price": 2.5920030181126927,
+    "transaction_costs": 0.2794138764181752
+  },
+  {
+    "time": 0.4082191780821907,
+    "portfolio_value": 2.776821893187133,
+    "option_price": 2.5819986254348017,
+    "transaction_costs": 0.27942555872337443
+  },
+  {
+    "time": 0.41095890410958796,
+    "portfolio_value": 2.721307456052564,
+    "option_price": 2.528563276201205,
+    "transaction_costs": 0.27992160891559625
+  },
+  {
+    "time": 0.4136986301369852,
+    "portfolio_value": 2.92797754461634,
+    "option_price": 2.675551448147423,
+    "transaction_costs": 0.28183112698961427
+  },
+  {
+    "time": 0.41643835616438246,
+    "portfolio_value": 2.9250573949233285,
+    "option_price": 2.6653671939146437,
+    "transaction_costs": 0.2818486240023665
+  },
+  {
+    "time": 0.4191780821917797,
+    "portfolio_value": 2.226165586369646,
+    "option_price": 2.169461161398021,
+    "transaction_costs": 0.28797016709607387
+  },
+  {
+    "time": 0.42191780821917696,
+    "portfolio_value": 2.806521324172003,
+    "option_price": 2.6143141012310798,
+    "transaction_costs": 0.2937580858587595
+  },
+  {
+    "time": 0.4246575342465742,
+    "portfolio_value": 2.8036199529533903,
+    "option_price": 2.604063335596592,
+    "transaction_costs": 0.29376913748719885
+  },
+  {
+    "time": 0.42739726027397146,
+    "portfolio_value": 2.1608355287991756,
+    "option_price": 2.146004541522054,
+    "transaction_costs": 0.2995363186155606
+  },
+  {
+    "time": 0.4301369863013687,
+    "portfolio_value": 1.9178103043357098,
+    "option_price": 1.9633503816635174,
+    "transaction_costs": 0.30208643349048236
+  },
+  {
+    "time": 0.43287671232876596,
+    "portfolio_value": 1.91536483384143,
+    "option_price": 1.9536215197356503,
+    "transaction_costs": 0.3021488504556242
+  },
+  {
+    "time": 0.4356164383561632,
+    "portfolio_value": 1.6737627700465794,
+    "option_price": 1.7727381755297442,
+    "transaction_costs": 0.3047179015512326
+  },
+  {
+    "time": 0.43835616438356045,
+    "portfolio_value": 1.8667922489983226,
+    "option_price": 1.9193258736939973,
+    "transaction_costs": 0.3069212169330424
+  },
+  {
+    "time": 0.4410958904109577,
+    "portfolio_value": 1.8643698456280617,
+    "option_price": 1.9099701056075895,
+    "transaction_costs": 0.30695830958333475
+  },
+  {
+    "time": 0.44383561643835495,
+    "portfolio_value": 2.0786307387532688,
+    "option_price": 2.0587893370987502,
+    "transaction_costs": 0.30914310891854685
+  },
+  {
+    "time": 0.4465753424657522,
+    "portfolio_value": 2.2634168670349695,
+    "option_price": 2.1941878030831985,
+    "transaction_costs": 0.31098258174579035
+  },
+  {
+    "time": 0.44931506849314945,
+    "portfolio_value": 2.2607755775158935,
+    "option_price": 2.1844955135969055,
+    "transaction_costs": 0.31100065509018654
+  },
+  {
+    "time": 0.4520547945205467,
+    "portfolio_value": 2.6536955951568615,
+    "option_price": 2.4674883823330354,
+    "transaction_costs": 0.31469240644099017
+  },
+  {
+    "time": 0.45479452054794395,
+    "portfolio_value": 3.097935548692355,
+    "option_price": 2.786660755218041,
+    "transaction_costs": 0.3186312758376632
+  },
+  {
+    "time": 0.4575342465753412,
+    "portfolio_value": 3.094876676663276,
+    "option_price": 2.77671947959751,
+    "transaction_costs": 0.31863329208748986
+  },
+  {
+    "time": 0.46027397260273845,
+    "portfolio_value": 2.476866110890022,
+    "option_price": 2.3645463589781706,
+    "transaction_costs": 0.323545893579217
+  },
+  {
+    "time": 0.4630136986301357,
+    "portfolio_value": 2.365410330345071,
+    "option_price": 2.292214163018698,
+    "transaction_costs": 0.3244324195303033
+  },
+  {
+    "time": 0.46575342465753294,
+    "portfolio_value": 2.3626688333676853,
+    "option_price": 2.282186368281958,
+    "transaction_costs": 0.3244468207433052
+  },
+  {
+    "time": 0.4684931506849302,
+    "portfolio_value": 2.5105613291896276,
+    "option_price": 2.3635437476909846,
+    "transaction_costs": 0.32569190311843754
+  },
+  {
+    "time": 0.47123287671232744,
+    "portfolio_value": 2.892730757481999,
+    "option_price": 2.631618324714332,
+    "transaction_costs": 0.3291309652322181
+  },
+  {
+    "time": 0.4739726027397247,
+    "portfolio_value": 2.8897329228041926,
+    "option_price": 2.6214139432546766,
+    "transaction_costs": 0.3291373603629698
+  },
+  {
+    "time": 0.47671232876712194,
+    "portfolio_value": 3.267292596092979,
+    "option_price": 2.882888663990449,
+    "transaction_costs": 0.33231872458567197
+  },
+  {
+    "time": 0.4794520547945192,
+    "portfolio_value": 3.6195814255754257,
+    "option_price": 3.126644743255757,
+    "transaction_costs": 0.33512684382258423
+  },
+  {
+    "time": 0.48219178082191644,
+    "portfolio_value": 3.616254538177671,
+    "option_price": 3.1164268393429615,
+    "transaction_costs": 0.335147274457114
+  },
+  {
+    "time": 0.4849315068493137,
+    "portfolio_value": 3.1111545180016833,
+    "option_price": 2.7718751766380954,
+    "transaction_costs": 0.3388675630441389
+  },
+  {
+    "time": 0.48767123287671094,
+    "portfolio_value": 2.7425945666919276,
+    "option_price": 2.5157109248072773,
+    "transaction_costs": 0.3418233252296866
+  },
+  {
+    "time": 0.4904109589041082,
+    "portfolio_value": 2.739631844917639,
+    "option_price": 2.5051212117257524,
+    "transaction_costs": 0.3418290393605014
+  },
+  {
+    "time": 0.49315068493150543,
+    "portfolio_value": 2.541792054169612,
+    "option_price": 2.355362749684893,
+    "transaction_costs": 0.34358776384447215
+  },
+  {
+    "time": 0.4958904109589027,
+    "portfolio_value": 3.1701196853886344,
+    "option_price": 2.80435447367245,
+    "transaction_costs": 0.349356389203548
+  },
+  {
+    "time": 0.49863013698629993,
+    "portfolio_value": 3.1669370683625075,
+    "option_price": 2.7933033870043564,
+    "transaction_costs": 0.3493682822800818
+  },
+  {
+    "time": 0.5013698630136972,
+    "portfolio_value": 3.30588542118776,
+    "option_price": 2.8755811995664184,
+    "transaction_costs": 0.3502512266254173
+  },
+  {
+    "time": 0.5041095890410945,
+    "portfolio_value": 3.302653421796002,
+    "option_price": 2.866195213214302,
+    "transaction_costs": 0.35026254658765066
+  },
+  {
+    "time": 0.5068493150684917,
+    "portfolio_value": 3.4166032875053958,
+    "option_price": 2.928467723646759,
+    "transaction_costs": 0.3511328566562052
+  },
+  {
+    "time": 0.509589041095889,
+    "portfolio_value": 2.8774191698818967,
+    "option_price": 2.5680288500056467,
+    "transaction_costs": 0.35520404699625874
+  },
+  {
+    "time": 0.5123287671232862,
+    "portfolio_value": 2.8743614116939327,
+    "option_price": 2.5585553756130377,
+    "transaction_costs": 0.3552086290775991
+  },
+  {
+    "time": 0.5150684931506835,
+    "portfolio_value": 2.703705342517466,
+    "option_price": 2.4422933874188124,
+    "transaction_costs": 0.3565719524321215
+  },
+  {
+    "time": 0.5178082191780807,
+    "portfolio_value": 2.3047429689624934,
+    "option_price": 2.171321850096723,
+    "transaction_costs": 0.3600218171341022
+  },
+  {
+    "time": 0.520547945205478,
+    "portfolio_value": 2.3019482046318487,
+    "option_price": 2.1617533698772013,
+    "transaction_costs": 0.36003678406422507
+  },
+  {
+    "time": 0.5232876712328752,
+    "portfolio_value": 2.045179707562781,
+    "option_price": 1.9868605213741848,
+    "transaction_costs": 0.36244886205115867
+  },
+  {
+    "time": 0.5260273972602725,
+    "portfolio_value": 2.247051896221109,
+    "option_price": 2.113392551113993,
+    "transaction_costs": 0.36444212114859875
+  },
+  {
+    "time": 0.5287671232876697,
+    "portfolio_value": 2.244280449509013,
+    "option_price": 2.103735924372104,
+    "transaction_costs": 0.3644591653155487
+  },
+  {
+    "time": 0.531506849315067,
+    "portfolio_value": 2.765263691029425,
+    "option_price": 2.4570557406591838,
+    "transaction_costs": 0.36943351657263207
+  },
+  {
+    "time": 0.5342465753424642,
+    "portfolio_value": 2.1991152943651713,
+    "option_price": 2.086046164760579,
+    "transaction_costs": 0.37434841083834214
+  },
+  {
+    "time": 0.5369863013698615,
+    "portfolio_value": 2.1963410531476413,
+    "option_price": 2.0762250078135813,
+    "transaction_costs": 0.3743673844105445
+  },
+  {
+    "time": 0.5397260273972587,
+    "portfolio_value": 2.137863566157762,
+    "option_price": 2.0303287951021365,
+    "transaction_costs": 0.3749244307471776
+  },
+  {
+    "time": 0.542465753424656,
+    "portfolio_value": 2.398920320831685,
+    "option_price": 2.200296101840826,
+    "transaction_costs": 0.3775274118837501
+  },
+  {
+    "time": 0.5452054794520532,
+    "portfolio_value": 2.396034555911946,
+    "option_price": 2.1902576884465343,
+    "transaction_costs": 0.3775369170367752
+  },
+  {
+    "time": 0.5479452054794505,
+    "portfolio_value": 2.8507602625362907,
+    "option_price": 2.4891467685271995,
+    "transaction_costs": 0.38183380225584873
+  },
+  {
+    "time": 0.5506849315068477,
+    "portfolio_value": 3.546942681040292,
+    "option_price": 2.973986425235922,
+    "transaction_costs": 0.38767813897826753
+  },
+  {
+    "time": 0.553424657534245,
+    "portfolio_value": 3.5435012510905324,
+    "option_price": 2.9638621465164747,
+    "transaction_costs": 0.38771199162537934
+  },
+  {
+    "time": 0.5561643835616422,
+    "portfolio_value": 3.0786643182159636,
+    "option_price": 2.6443194855241066,
+    "transaction_costs": 0.3911975401371529
+  },
+  {
+    "time": 0.5589041095890395,
+    "portfolio_value": 2.3436939999659003,
+    "option_price": 2.166659536457539,
+    "transaction_costs": 0.3973408865824778
+  },
+  {
+    "time": 0.5616438356164367,
+    "portfolio_value": 2.340777784665079,
+    "option_price": 2.1559650974355136,
+    "transaction_costs": 0.39742625939609205
+  },
+  {
+    "time": 0.564383561643834,
+    "portfolio_value": 2.0929291530759713,
+    "option_price": 1.9920497920801654,
+    "transaction_costs": 0.39963481284243485
+  },
+  {
+    "time": 0.5671232876712312,
+    "portfolio_value": 1.7647167530382788,
+    "option_price": 1.7890244557971862,
+    "transaction_costs": 0.4027343266490358
+  },
+  {
+    "time": 0.5698630136986285,
+    "portfolio_value": 1.7620956045237506,
+    "option_price": 1.7799669982976152,
+    "transaction_costs": 0.4027631026516828
+  },
+  {
+    "time": 0.5726027397260257,
+    "portfolio_value": 1.536332671753982,
+    "option_price": 1.6249060527906118,
+    "transaction_costs": 0.4052139420078665
+  },
+  {
+    "time": 0.575342465753423,
+    "portfolio_value": 1.0535137368012712,
+    "option_price": 1.33256219099539,
+    "transaction_costs": 0.41053211599653044
+  },
+  {
+    "time": 0.5780821917808202,
+    "portfolio_value": 1.0513194527443517,
+    "option_price": 1.323939937872355,
+    "transaction_costs": 0.4106010724567037
+  },
+  {
+    "time": 0.5808219178082175,
+    "portfolio_value": 1.745885660973812,
+    "option_price": 1.7895889178306033,
+    "transaction_costs": 0.41931193300442954
+  },
+  {
+    "time": 0.5835616438356147,
+    "portfolio_value": 1.719260742928725,
+    "option_price": 1.7663330934369383,
+    "transaction_costs": 0.4195548718984941
+  },
+  {
+    "time": 0.586301369863012,
+    "portfolio_value": 1.7166058425169695,
+    "option_price": 1.7570890598433413,
+    "transaction_costs": 0.41958521064560084
+  },
+  {
+    "time": 0.5890410958904092,
+    "portfolio_value": 1.631794517475285,
+    "option_price": 1.696727283761628,
+    "transaction_costs": 0.4204962080041746
+  },
+  {
+    "time": 0.5917808219178065,
+    "portfolio_value": 1.4372897931024653,
+    "option_price": 1.5749494071747747,
+    "transaction_costs": 0.4224931960859899
+  },
+  {
+    "time": 0.5945205479452037,
+    "portfolio_value": 1.4347954676266355,
+    "option_price": 1.5657251503634242,
+    "transaction_costs": 0.42254011416261217
+  },
+  {
+    "time": 0.597260273972601,
+    "portfolio_value": 0.961279274456956,
+    "option_price": 1.2823673990681623,
+    "transaction_costs": 0.42793072794349785
+  },
+  {
+    "time": 0.5999999999999982,
+    "portfolio_value": 0.9590826308704621,
+    "option_price": 1.273449557897294,
+    "transaction_costs": 0.4280081812635607
+  },
+  {
+    "time": 0.6027397260273955,
+    "portfolio_value": 1.0502620336976136,
+    "option_price": 1.323330955208973,
+    "transaction_costs": 0.4291655855369898
+  },
+  {
+    "time": 0.6054794520547927,
+    "portfolio_value": 0.9928262948302162,
+    "option_price": 1.2773515325584621,
+    "transaction_costs": 0.43003189309009476
+  },
+  {
+    "time": 0.60821917808219,
+    "portfolio_value": 0.9906175803034358,
+    "option_price": 1.2683189462711166,
+    "transaction_costs": 0.430120374349167
+  },
+  {
+    "time": 0.6109589041095872,
+    "portfolio_value": 1.289646839142435,
+    "option_price": 1.4575625120005244,
+    "transaction_costs": 0.4340971791527845
+  },
+  {
+    "time": 0.6136986301369844,
+    "portfolio_value": 1.1592184986248029,
+    "option_price": 1.3717783643514683,
+    "transaction_costs": 0.4356879801437393
+  },
+  {
+    "time": 0.6164383561643817,
+    "portfolio_value": 1.1568835144864806,
+    "option_price": 1.3623362901716085,
+    "transaction_costs": 0.43578639819538084
+  },
+  {
+    "time": 0.619178082191779,
+    "portfolio_value": 0.8097449108684103,
+    "option_price": 1.1485676174848236,
+    "transaction_costs": 0.4402454683511998
+  },
+  {
+    "time": 0.6219178082191762,
+    "portfolio_value": 1.2516406182160367,
+    "option_price": 1.430882226325924,
+    "transaction_costs": 0.44634556983353235
+  },
+  {
+    "time": 0.6246575342465734,
+    "portfolio_value": 1.2492207351223854,
+    "option_price": 1.4205624087637592,
+    "transaction_costs": 0.4464567762697023
+  },
+  {
+    "time": 0.6273972602739707,
+    "portfolio_value": 1.9110714759720153,
+    "option_price": 1.875328956651746,
+    "transaction_costs": 0.45479549730370167
+  },
+  {
+    "time": 0.6301369863013679,
+    "portfolio_value": 2.806240509913522,
+    "option_price": 2.422642870255053,
+    "transaction_costs": 0.46314148554025697
+  },
+  {
+    "time": 0.6328767123287652,
+    "portfolio_value": 2.802912042605591,
+    "option_price": 2.4143169672312506,
+    "transaction_costs": 0.46317013020864334
+  },
+  {
+    "time": 0.6356164383561624,
+    "portfolio_value": 2.427545659373898,
+    "option_price": 2.1934043192160377,
+    "transaction_costs": 0.46611014433285264
+  },
+  {
+    "time": 0.6383561643835597,
+    "portfolio_value": 2.29476276275242,
+    "option_price": 2.110370124418084,
+    "transaction_costs": 0.46719740543335814
+  },
+  {
+    "time": 0.6410958904109569,
+    "portfolio_value": 2.291652865957012,
+    "option_price": 2.101901762953819,
+    "transaction_costs": 0.46721349575752497
+  },
+  {
+    "time": 0.6438356164383542,
+    "portfolio_value": 1.8762250438363495,
+    "option_price": 1.856808717608498,
+    "transaction_costs": 0.4710400892050299
+  },
+  {
+    "time": 0.6465753424657514,
+    "portfolio_value": 1.7947866604980902,
+    "option_price": 1.8048420088360981,
+    "transaction_costs": 0.47186053104962217
+  },
+  {
+    "time": 0.6493150684931487,
+    "portfolio_value": 1.7919300211992564,
+    "option_price": 1.7962358104742135,
+    "transaction_costs": 0.4718629159478639
+  },
+  {
+    "time": 0.6520547945205459,
+    "portfolio_value": 2.1472873412924116,
+    "option_price": 2.0017079503882385,
+    "transaction_costs": 0.47538080920761094
+  },
+  {
+    "time": 0.6547945205479432,
+    "portfolio_value": 2.2300285126498878,
+    "option_price": 2.043524705255211,
+    "transaction_costs": 0.47616993318120365
+  },
+  {
+    "time": 0.6575342465753404,
+    "portfolio_value": 2.226935483490827,
+    "option_price": 2.0347574773439536,
+    "transaction_costs": 0.4761754419055501
+  },
+  {
+    "time": 0.6602739726027377,
+    "portfolio_value": 2.89049869874696,
+    "option_price": 2.439307572345502,
+    "transaction_costs": 0.4822006666713191
+  },
+  {
+    "time": 0.6630136986301349,
+    "portfolio_value": 3.0111247685444695,
+    "option_price": 2.500613327622458,
+    "transaction_costs": 0.48320508153768615
+  },
+  {
+    "time": 0.6657534246575322,
+    "portfolio_value": 3.0076457146333624,
+    "option_price": 2.491969064345111,
+    "transaction_costs": 0.483254008793768
+  },
+  {
+    "time": 0.6684931506849294,
+    "portfolio_value": 2.365689406226565,
+    "option_price": 2.123857076502544,
+    "transaction_costs": 0.48836063409916886
+  },
+  {
+    "time": 0.6712328767123267,
+    "portfolio_value": 2.574884015765015,
+    "option_price": 2.250950165391044,
+    "transaction_costs": 0.49032589250380293
+  },
+  {
+    "time": 0.6739726027397239,
+    "portfolio_value": 2.571573858337132,
+    "option_price": 2.2421394081909964,
+    "transaction_costs": 0.49035716703917237
+  },
+  {
+    "time": 0.6767123287671212,
+    "portfolio_value": 2.662482233121949,
+    "option_price": 2.291656983862618,
+    "transaction_costs": 0.4912342874774083
+  },
+  {
+    "time": 0.6794520547945184,
+    "portfolio_value": 3.246905587338162,
+    "option_price": 2.6447966479373117,
+    "transaction_costs": 0.49617283567892956
+  },
+  {
+    "time": 0.6821917808219157,
+    "portfolio_value": 3.243274493682975,
+    "option_price": 2.6361158506256044,
+    "transaction_costs": 0.49623271174602557
+  },
+  {
+    "time": 0.6849315068493129,
+    "portfolio_value": 1.8175448974150257,
+    "option_price": 1.8646336375026362,
+    "transaction_costs": 0.5073293933903321
+  },
+  {
+    "time": 0.6876712328767102,
+    "portfolio_value": 1.8984826390009957,
+    "option_price": 1.8861295999372985,
+    "transaction_costs": 0.5079104567306449
+  },
+  {
+    "time": 0.6904109589041074,
+    "portfolio_value": 1.8954239144434837,
+    "option_price": 1.8782084062885664,
+    "transaction_costs": 0.5079183267835816
+  },
+  {
+    "time": 0.6931506849315047,
+    "portfolio_value": 1.2548879603618843,
+    "option_price": 1.5377122344143503,
+    "transaction_costs": 0.5138821849392922
+  },
+  {
+    "time": 0.6958904109589019,
+    "portfolio_value": 1.4193200631469267,
+    "option_price": 1.6295710643214114,
+    "transaction_costs": 0.5157175915008753
+  },
+  {
+    "time": 0.6986301369862992,
+    "portfolio_value": 1.4164866450798357,
+    "option_price": 1.621574592478567,
+    "transaction_costs": 0.5157213764638732
+  },
+  {
+    "time": 0.7013698630136964,
+    "portfolio_value": 1.552788032119068,
+    "option_price": 1.6881546394361455,
+    "transaction_costs": 0.5171057306475931
+  },
+  {
+    "time": 0.7041095890410937,
+    "portfolio_value": 1.5498786538336518,
+    "option_price": 1.680102150873745,
+    "transaction_costs": 0.5171078536712646
+  },
+  {
+    "time": 0.7068493150684909,
+    "portfolio_value": 2.170138072647525,
+    "option_price": 2.024288834083786,
+    "transaction_costs": 0.5231942373323195
+  },
+  {
+    "time": 0.7095890410958882,
+    "portfolio_value": 2.5124484339569335,
+    "option_price": 2.2204780181719,
+    "transaction_costs": 0.5262791401527642
+  },
+  {
+    "time": 0.7123287671232854,
+    "portfolio_value": 2.509036048382299,
+    "option_price": 2.212376785077142,
+    "transaction_costs": 0.5263153189840124
+  },
+  {
+    "time": 0.7150684931506827,
+    "portfolio_value": 2.946797655642385,
+    "option_price": 2.4536301176038346,
+    "transaction_costs": 0.5298875190236966
+  },
+  {
+    "time": 0.7178082191780799,
+    "portfolio_value": 2.7998158784080687,
+    "option_price": 2.348027576900757,
+    "transaction_costs": 0.5310911068158356
+  },
+  {
+    "time": 0.7205479452054772,
+    "portfolio_value": 2.7962711479196827,
+    "option_price": 2.3399591583902737,
+    "transaction_costs": 0.5311440109829434
+  },
+  {
+    "time": 0.7232876712328744,
+    "portfolio_value": 2.125347693958574,
+    "option_price": 1.9937322527172714,
+    "transaction_costs": 0.5362934628032449
+  },
+  {
+    "time": 0.7260273972602717,
+    "portfolio_value": 1.9786636880270478,
+    "option_price": 1.9259424250638313,
+    "transaction_costs": 0.5373435486994618
+  },
+  {
+    "time": 0.7287671232876689,
+    "portfolio_value": 1.9754552010053459,
+    "option_price": 1.9176331619948181,
+    "transaction_costs": 0.5373590784548103
+  },
+  {
+    "time": 0.7315068493150662,
+    "portfolio_value": 0.9912337365627053,
+    "option_price": 1.4204472390546812,
+    "transaction_costs": 0.5464131289246057
+  },
+  {
+    "time": 0.7342465753424634,
+    "portfolio_value": 1.2110477927375811,
+    "option_price": 1.5335203903608754,
+    "transaction_costs": 0.5488771448322612
+  },
+  {
+    "time": 0.7369863013698607,
+    "portfolio_value": 1.2081990620511576,
+    "option_price": 1.525195229788123,
+    "transaction_costs": 0.5489021004554587
+  },
+  {
+    "time": 0.7397260273972579,
+    "portfolio_value": 1.0663377628557456,
+    "option_price": 1.439736693932444,
+    "transaction_costs": 0.5505004262717755
+  },
+  {
+    "time": 0.7424657534246552,
+    "portfolio_value": 1.7712225374052863,
+    "option_price": 1.8539040947845673,
+    "transaction_costs": 0.558563343255385
+  },
+  {
+    "time": 0.7452054794520524,
+    "portfolio_value": 1.7680204769352557,
+    "option_price": 1.845461818051875,
+    "transaction_costs": 0.5585683623396189
+  },
+  {
+    "time": 0.7479452054794496,
+    "portfolio_value": 1.618332678028473,
+    "option_price": 1.75464828302804,
+    "transaction_costs": 0.5600271212641663
+  },
+  {
+    "time": 0.7506849315068469,
+    "portfolio_value": 2.1767036764455625,
+    "option_price": 2.0574998544476677,
+    "transaction_costs": 0.5657374760636914
+  },
+  {
+    "time": 0.7534246575342441,
+    "portfolio_value": 2.173267848350015,
+    "option_price": 2.049759543039744,
+    "transaction_costs": 0.5657721943970061
+  },
+  {
+    "time": 0.7561643835616414,
+    "portfolio_value": 2.1474555311750905,
+    "option_price": 2.039525435566856,
+    "transaction_costs": 0.5660261417558612
+  },
+  {
+    "time": 0.7589041095890386,
+    "portfolio_value": 1.1816747794442364,
+    "option_price": 1.588548595470506,
+    "transaction_costs": 0.573823852241721
+  },
+  {
+    "time": 0.7616438356164359,
+    "portfolio_value": 1.1786660430985592,
+    "option_price": 1.5806409913072965,
+    "transaction_costs": 0.5738288090220969
+  },
+  {
+    "time": 0.7643835616438331,
+    "portfolio_value": 1.378485971243812,
+    "option_price": 1.7008746851503957,
+    "transaction_costs": 0.5761615467850411
+  },
+  {
+    "time": 0.7671232876712304,
+    "portfolio_value": 1.6953739941066956,
+    "option_price": 1.8675102408811604,
+    "transaction_costs": 0.579292008378911
+  },
+  {
+    "time": 0.7698630136986276,
+    "portfolio_value": 1.6920651228966364,
+    "option_price": 1.859453910079021,
+    "transaction_costs": 0.5793208655247633
+  },
+  {
+    "time": 0.7726027397260249,
+    "portfolio_value": 1.011130359094949,
+    "option_price": 1.5276846304412084,
+    "transaction_costs": 0.5853474752937607
+  },
+  {
+    "time": 0.7753424657534221,
+    "portfolio_value": 1.4531671270691646,
+    "option_price": 1.7492217333138034,
+    "transaction_costs": 0.5898158335890904
+  },
+  {
+    "time": 0.7780821917808194,
+    "portfolio_value": 1.4499415345375084,
+    "option_price": 1.741018731354064,
+    "transaction_costs": 0.5898437845980006
+  },
+  {
+    "time": 0.7808219178082166,
+    "portfolio_value": 2.210424105163071,
+    "option_price": 2.135998642742231,
+    "transaction_costs": 0.5967223247711935
+  },
+  {
+    "time": 0.7835616438356139,
+    "portfolio_value": 1.8312833725224422,
+    "option_price": 1.938722762640044,
+    "transaction_costs": 0.5996779618225053
+  },
+  {
+    "time": 0.7863013698630111,
+    "portfolio_value": 1.8278407378023687,
+    "option_price": 1.9304973778921406,
+    "transaction_costs": 0.5997276890510793
+  },
+  {
+    "time": 0.7890410958904084,
+    "portfolio_value": 2.0764998228383718,
+    "option_price": 2.063464173513149,
+    "transaction_costs": 0.6020608929159089
+  },
+  {
+    "time": 0.7917808219178056,
+    "portfolio_value": 1.6943664240629275,
+    "option_price": 1.880690914978641,
+    "transaction_costs": 0.6049239053858546
+  },
+  {
+    "time": 0.7945205479452029,
+    "portfolio_value": 1.6909495226290474,
+    "option_price": 1.8723594717059946,
+    "transaction_costs": 0.6049748019434259
+  },
+  {
+    "time": 0.7972602739726001,
+    "portfolio_value": 1.7808086711263442,
+    "option_price": 1.9157823875178497,
+    "transaction_costs": 0.605910560939003
+  },
+  {
+    "time": 0.7999999999999974,
+    "portfolio_value": 1.777337330264963,
+    "option_price": 1.9072890459255423,
+    "transaction_costs": 0.6059680317618373
+  },
+  {
+    "time": 0.8027397260273946,
+    "portfolio_value": 0.6499841483386177,
+    "option_price": 1.3754792641633908,
+    "transaction_costs": 0.6160709461904338
+  },
+  {
+    "time": 0.8054794520547919,
+    "portfolio_value": 1.05504438982031,
+    "option_price": 1.5915541232223052,
+    "transaction_costs": 0.620805980777781
+  },
+  {
+    "time": 0.8082191780821891,
+    "portfolio_value": 1.0518634975588839,
+    "option_price": 1.5826428232676046,
+    "transaction_costs": 0.6208326780836938
+  },
+  {
+    "time": 0.8109589041095864,
+    "portfolio_value": 1.6440115259684944,
+    "option_price": 1.895670283892351,
+    "transaction_costs": 0.6268969386745775
+  },
+  {
+    "time": 0.8136986301369836,
+    "portfolio_value": 2.0084227052059873,
+    "option_price": 2.105691604736686,
+    "transaction_costs": 0.6301760661287705
+  },
+  {
+    "time": 0.8164383561643809,
+    "portfolio_value": 2.0047278282451657,
+    "option_price": 2.0986044145457625,
+    "transaction_costs": 0.6302388821893729
+  },
+  {
+    "time": 0.8191780821917781,
+    "portfolio_value": 1.9238514851979858,
+    "option_price": 2.0457619794819486,
+    "transaction_costs": 0.6308654649633542
+  },
+  {
+    "time": 0.8219178082191754,
+    "portfolio_value": 1.5215931602364847,
+    "option_price": 1.8567603801848218,
+    "transaction_costs": 0.6338560208590047
+  },
+  {
+    "time": 0.8246575342465726,
+    "portfolio_value": 1.518092440092012,
+    "option_price": 1.8494540922488283,
+    "transaction_costs": 0.633900256915156
+  },
+  {
+    "time": 0.8273972602739699,
+    "portfolio_value": 0.8116581480243852,
+    "option_price": 1.576787827700001,
+    "transaction_costs": 0.6390544530779516
+  },
+  {
+    "time": 0.8301369863013671,
+    "portfolio_value": 1.3803399404103374,
+    "option_price": 1.8542389793242435,
+    "transaction_costs": 0.6445470193534233
+  },
+  {
+    "time": 0.8328767123287644,
+    "portfolio_value": 1.3768176946720985,
+    "option_price": 1.8467982091091832,
+    "transaction_costs": 0.6445944084247303
+  },
+  {
+    "time": 0.8356164383561616,
+    "portfolio_value": 1.7341372332729748,
+    "option_price": 2.0023808193477683,
+    "transaction_costs": 0.6474508512672296
+  },
+  {
+    "time": 0.8383561643835589,
+    "portfolio_value": 0.9087944464816147,
+    "option_price": 1.638954352442275,
+    "transaction_costs": 0.6538293117791056
+  },
+  {
+    "time": 0.8410958904109561,
+    "portfolio_value": 0.9054620086595122,
+    "option_price": 1.6313325737458477,
+    "transaction_costs": 0.6538626422248223
+  },
+  {
+    "time": 0.8438356164383534,
+    "portfolio_value": 0.4995910238722132,
+    "option_price": 1.4144333132313287,
+    "transaction_costs": 0.6582092733274822
+  },
+  {
+    "time": 0.8465753424657506,
+    "portfolio_value": 0.6590112988311745,
+    "option_price": 1.4862544214104072,
+    "transaction_costs": 0.6599811188230871
+  },
+  {
+    "time": 0.8493150684931479,
+    "portfolio_value": 0.6558175876495298,
+    "option_price": 1.4785261312658473,
+    "transaction_costs": 0.6599985811937055
+  },
+  {
+    "time": 0.8520547945205451,
+    "portfolio_value": 1.0703284555671857,
+    "option_price": 1.652316925142229,
+    "transaction_costs": 0.6638635616399525
+  },
+  {
+    "time": 0.8547945205479424,
+    "portfolio_value": 1.5066267285590556,
+    "option_price": 1.8880505965531538,
+    "transaction_costs": 0.668361333395512
+  },
+  {
+    "time": 0.8575342465753396,
+    "portfolio_value": 1.5029732782103906,
+    "option_price": 1.8803998284669208,
+    "transaction_costs": 0.6684230065814912
+  },
+  {
+    "time": 0.8602739726027369,
+    "portfolio_value": 1.8790052201342604,
+    "option_price": 2.0326776643681232,
+    "transaction_costs": 0.6712215625109981
+  },
+  {
+    "time": 0.8630136986301341,
+    "portfolio_value": 2.243323778623079,
+    "option_price": 2.1849184822050893,
+    "transaction_costs": 0.6738023660860583
+  },
+  {
+    "time": 0.8657534246575314,
+    "portfolio_value": 2.2393715719386478,
+    "option_price": 2.177460243815869,
+    "transaction_costs": 0.6738948571608293
+  },
+  {
+    "time": 0.8684931506849286,
+    "portfolio_value": 2.593215125102631,
+    "option_price": 2.379950634867699,
+    "transaction_costs": 0.6768763778567612
+  },
+  {
+    "time": 0.8712328767123259,
+    "portfolio_value": 3.336664562459376,
+    "option_price": 2.708892432326951,
+    "transaction_costs": 0.6811366742526566
+  },
+  {
+    "time": 0.8739726027397231,
+    "portfolio_value": 3.332309805625812,
+    "option_price": 2.7020930717960905,
+    "transaction_costs": 0.6812860301608333
+  },
+  {
+    "time": 0.8767123287671204,
+    "portfolio_value": 2.7595361835606127,
+    "option_price": 2.3938319100808116,
+    "transaction_costs": 0.6846726215483798
+  },
+  {
+    "time": 0.8794520547945176,
+    "portfolio_value": 1.3416760957835692,
+    "option_price": 1.8086757425754458,
+    "transaction_costs": 0.6931446629298682
+  },
+  {
+    "time": 0.8821917808219149,
+    "portfolio_value": 1.3379622541024645,
+    "option_price": 1.8020814377493792,
+    "transaction_costs": 0.6932205695742578
+  },
+  {
+    "time": 0.8849315068493121,
+    "portfolio_value": 1.2410849369319692,
+    "option_price": 1.724636098369753,
+    "transaction_costs": 0.6943794223937657
+  },
+  {
+    "time": 0.8876712328767093,
+    "portfolio_value": 0.4564532518410118,
+    "option_price": 1.386572992052613,
+    "transaction_costs": 0.701077269310067
+  },
+  {
+    "time": 0.8904109589041066,
+    "portfolio_value": 0.4531651591467494,
+    "option_price": 1.379664730322292,
+    "transaction_costs": 0.7011138457761131
+  },
+  {
+    "time": 0.8931506849315038,
+    "portfolio_value": -0.007572299916759562,
+    "option_price": 1.1606014295387526,
+    "transaction_costs": 0.7061848329622377
+  },
+  {
+    "time": 0.8958904109589011,
+    "portfolio_value": 0.176925702385617,
+    "option_price": 1.232096827977294,
+    "transaction_costs": 0.7082410805879273
+  },
+  {
+    "time": 0.8986301369862983,
+    "portfolio_value": 0.17380027563488198,
+    "option_price": 1.2250324693811054,
+    "transaction_costs": 0.7082598017534169
+  },
+  {
+    "time": 0.9013698630136956,
+    "portfolio_value": -0.15396691075668656,
+    "option_price": 1.090229448340371,
+    "transaction_costs": 0.71167458228836
+  },
+  {
+    "time": 0.9041095890410928,
+    "portfolio_value": -0.15690658955170278,
+    "option_price": 1.0830839396233733,
+    "transaction_costs": 0.7116795205024833
+  },
+  {
+    "time": 0.9068493150684901,
+    "portfolio_value": 0.10635291508857136,
+    "option_price": 1.1896696990648543,
+    "transaction_costs": 0.7147895095662523
+  },
+  {
+    "time": 0.9095890410958873,
+    "portfolio_value": -0.7242105381319135,
+    "option_price": 0.8697340540998297,
+    "transaction_costs": 0.7240289383600658
+  },
+  {
+    "time": 0.9123287671232846,
+    "portfolio_value": -0.7268145700023965,
+    "option_price": 0.8626801287351046,
+    "transaction_costs": 0.7240795240571206
+  },
+  {
+    "time": 0.9150684931506818,
+    "portfolio_value": -0.8695011491989817,
+    "option_price": 0.790383280856467,
+    "transaction_costs": 0.7263220322836648
+  },
+  {
+    "time": 0.9178082191780791,
+    "portfolio_value": -1.337501405294418,
+    "option_price": 0.6002222897637465,
+    "transaction_costs": 0.7332844961077924
+  },
+  {
+    "time": 0.9205479452054763,
+    "portfolio_value": -1.3395986904789012,
+    "option_price": 0.5935794693212193,
+    "transaction_costs": 0.7333898007292771
+  },
+  {
+    "time": 0.9232876712328736,
+    "portfolio_value": -1.235705577611462,
+    "option_price": 0.6240478074796268,
+    "transaction_costs": 0.7348968392367441
+  },
+  {
+    "time": 0.9260273972602708,
+    "portfolio_value": -0.6127226749828907,
+    "option_price": 0.9100457527049292,
+    "transaction_costs": 0.7455743559260719
+  },
+  {
+    "time": 0.9287671232876681,
+    "portfolio_value": -0.6154822037253638,
+    "option_price": 0.9026878066803511,
+    "transaction_costs": 0.745614069043464
+  },
+  {
+    "time": 0.9315068493150653,
+    "portfolio_value": -1.1160246711190993,
+    "option_price": 0.7050164899606554,
+    "transaction_costs": 0.752434161322486
+  },
+  {
+    "time": 0.9342465753424626,
+    "portfolio_value": -0.9513493770047674,
+    "option_price": 0.7739702541879585,
+    "transaction_costs": 0.7551457047407882
+  },
+  {
+    "time": 0.9369863013698598,
+    "portfolio_value": -0.9538820304353877,
+    "option_price": 0.7665304711504521,
+    "transaction_costs": 0.7551990825152288
+  },
+  {
+    "time": 0.9397260273972571,
+    "portfolio_value": -1.840910405488028,
+    "option_price": 0.4443726251325059,
+    "transaction_costs": 0.7684086526516932
+  },
+  {
+    "time": 0.9424657534246543,
+    "portfolio_value": -1.8018161650811493,
+    "option_price": 0.45492882326285355,
+    "transaction_costs": 0.7690276465615068
+  },
+  {
+    "time": 0.9452054794520516,
+    "portfolio_value": -1.8036563565099044,
+    "option_price": 0.44954774111997364,
+    "transaction_costs": 0.7691471745589747
+  },
+  {
+    "time": 0.9479452054794488,
+    "portfolio_value": -1.6362872756375353,
+    "option_price": 0.5092833946307566,
+    "transaction_costs": 0.7720642213070252
+  },
+  {
+    "time": 0.9506849315068461,
+    "portfolio_value": -1.3000437775282165,
+    "option_price": 0.6423601275614333,
+    "transaction_costs": 0.7779202007509503
+  },
+  {
+    "time": 0.9534246575342433,
+    "portfolio_value": -1.3023584567956519,
+    "option_price": 0.6362753792968363,
+    "transaction_costs": 0.7779972621667146
+  },
+  {
+    "time": 0.9561643835616406,
+    "portfolio_value": -1.5711617298578773,
+    "option_price": 0.5410434065459352,
+    "transaction_costs": 0.7819371240858323
+  },
+  {
+    "time": 0.9589041095890378,
+    "portfolio_value": -1.2754342159291738,
+    "option_price": 0.6531509857990517,
+    "transaction_costs": 0.7868996367378058
+  },
+  {
+    "time": 0.9616438356164351,
+    "portfolio_value": -1.2778010779633107,
+    "option_price": 0.646881759744011,
+    "transaction_costs": 0.7869720581213046
+  },
+  {
+    "time": 0.9643835616438323,
+    "portfolio_value": -1.2777058565465467,
+    "option_price": 0.6386965852355726,
+    "transaction_costs": 0.7871002560368522
+  },
+  {
+    "time": 0.9671232876712296,
+    "portfolio_value": -1.577646858776447,
+    "option_price": 0.5286837380789642,
+    "transaction_costs": 0.7917124337005682
+  },
+  {
+    "time": 0.9698630136986268,
+    "portfolio_value": -1.5797503869686622,
+    "option_price": 0.5225618044835869,
+    "transaction_costs": 0.791821235050178
+  },
+  {
+    "time": 0.9726027397260241,
+    "portfolio_value": -1.2886880934583047,
+    "option_price": 0.6342222994017456,
+    "transaction_costs": 0.7969488348502101
+  },
+  {
+    "time": 0.9753424657534213,
+    "portfolio_value": -1.2542965099921801,
+    "option_price": 0.6451389227094154,
+    "transaction_costs": 0.7975723519529067
+  },
+  {
+    "time": 0.9780821917808186,
+    "portfolio_value": -1.2567095751870525,
+    "option_price": 0.6385474993780917,
+    "transaction_costs": 0.7976479243735172
+  },
+  {
+    "time": 0.9808219178082158,
+    "portfolio_value": -1.1509545642818466,
+    "option_price": 0.6695911314333601,
+    "transaction_costs": 0.7991747217062791
+  },
+  {
+    "time": 0.9835616438356131,
+    "portfolio_value": -1.4424311772367346,
+    "option_price": 0.566185589918207,
+    "transaction_costs": 0.8034715784340682
+  },
+  {
+    "time": 0.9863013698630103,
+    "portfolio_value": -1.444688713960005,
+    "option_price": 0.5596502495087357,
+    "transaction_costs": 0.8035736034775166
+  },
+  {
+    "time": 0.9890410958904076,
+    "portfolio_value": -1.2890006120363822,
+    "option_price": 0.6028855607800497,
+    "transaction_costs": 0.8058079544961386
+  },
+  {
+    "time": 0.9917808219178048,
+    "portfolio_value": -1.0386388962444073,
+    "option_price": 0.6924047716195999,
+    "transaction_costs": 0.8098549610857433
+  },
+  {
+    "time": 0.9945205479452021,
+    "portfolio_value": -1.041235413038173,
+    "option_price": 0.6852741208572204,
+    "transaction_costs": 0.809918493301162
+  },
+  {
+    "time": 0.9972602739725993,
+    "portfolio_value": -1.3212151066062745,
+    "option_price": 0.5877681514085168,
+    "transaction_costs": 0.8140174810903867
+  },
+  {
+    "time": 0.9999999999999966,
+    "portfolio_value": -1.3235838182377648,
+    "option_price": 0.5808274298112555,
+    "transaction_costs": 0.8141558853642176
+  }
+]
